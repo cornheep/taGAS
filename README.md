@@ -1,6 +1,6 @@
 # taGAS (Technology-Assisted Gas Alarm System)
 
-This repository contains the code and documentation for a capstone project named **taGAS** which an abbreviation of Technology-Assisted Gas Alarm System which is a gas leakage detector with SMS capabilities that mainly utilizes an Arduino UNO R3, MQ-4 gas sensor and GSM 800L EVB V2. The main purpose of this study is to be a sense of precaution to the user when LPG leak occurs. This provides the user a sense of safety and security regarding explosion and fires due to LPG leaks.
+This repository contains the code and documentation for a capstone project named **taGAS** which an abbreviation of Technology-Assisted Gas Alarm System which is a gas leakage detector with SMS alerting capabilities that mainly utilizes an Arduino UNO R3, MQ-4 gas sensor and GSM 800L EVB V2. The main purpose of this study is to be a sense of precaution to the user when LPG leak occurs. This provides the user a sense of safety and security regarding explosion and fires due to LPG leaks.
 
 ## Project Purpose
 This project is specifically created to fulfill the requirements of **Practical Research 2 and Practical Research 3** by Group 3 of St. Clement on SY. 2024-2025 in **Immaculate Conception Polytechnic - Sta. Maria**.
