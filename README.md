@@ -1,6 +1,6 @@
 # taGAS (Technology-Assisted Gas Alarm System)
 
-This repository contains the code and documentation for a capstone project named **taGAS** which is a gas with SMS capabilities that mainly utilizes an Arduino UNO R3, MQ-4 gas sensor and GSM 800L EVB V2. The main purpose of this study is to be a sense of precaution to the user when LPG leak occurs. This provides the user a sense of security regarding explosion and fires due to LPG leaks.
+This repository contains the code and documentation for a capstone project named **taGAS** which an abbreviation of Technology-Assisted Gas Alarm System which is a gas leakage detector with SMS capabilities that mainly utilizes an Arduino UNO R3, MQ-4 gas sensor and GSM 800L EVB V2. The main purpose of this study is to be a sense of precaution to the user when LPG leak occurs. This provides the user a sense of safety and security regarding explosion and fires due to LPG leaks.
 
 ## Project Purpose
 This project is specifically created to fulfill the requirements of **Practical Research 2 and Practical Research 3** by Group 3 of St. Clement on SY. 2024-2025 in **Immaculate Conception Polytechnic - Sta. Maria**.
@@ -23,7 +23,7 @@ This project is specifically created to fulfill the requirements of **Practical 
 - 1x Green LED
 - 1x Buzzer 
 - 1x Jumper Wires
-- 1x DC-DC Buck Converter LM2596S
+- 1x DC-DC Buck Converter LM2596
 - 1x  12V 1A Power supply
 - 1x 3D Printed Casing
 
@@ -31,8 +31,8 @@ This project is specifically created to fulfill the requirements of **Practical 
 ## Getting Started
 
 ### Setup
-1. Connect all of the components as indicated in the [code](). 
-2. Upload the provided [code]() using the Arduino IDE.
+1. Connect all of the components as indicated in the [code](https://github.com/cornheep/taGAS/blob/main/LPG_DETECTOR_FV.ino). 
+2. Upload the provided [code](https://github.com/cornheep/taGAS/blob/main/LPG_DETECTOR_FV.ino) using the Arduino IDE.
 3. Test the system by simulating a gas leak.
 
 
@@ -40,7 +40,7 @@ This project is specifically created to fulfill the requirements of **Practical 
 - Install the system in areas prone to gas leakage such as residential areas and power plants that utilizes LPG as an energy source.
 
 ## Repository Contents
-- `Code`: Source code for the smoke detection and SMS notification system). [Gas Detector]() will redirect you directly to the code.
+- `Code`: Source code for the smoke detection and SMS notification system). [Gas Detector](https://github.com/cornheep/taGAS/blob/main/LPG_DETECTOR_FV.ino) will redirect you directly to the code.
 
 ## License
 This project is licensed under the `MIT License`. See the [LICENSE](https://github.com/cornheep/taGAS/blob/main/LICENSE) for details.
